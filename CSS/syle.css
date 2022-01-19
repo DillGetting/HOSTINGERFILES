@@ -1,0 +1,36 @@
+.class {
+
+}
+
+
+#id {
+
+}
+
+
+.flexContainer {
+    display: flex;
+
+    background: aqua;
+}
+
+.left {
+    flex: 1;
+    background: green;
+}
+
+.right {
+    flex: 1;
+    background: red;
+}
+
+table, th, td {
+    border:2px solid black;
+}
+
+.Submit {
+  flex: 1;
+
+  backgroung: azure;
+
+}

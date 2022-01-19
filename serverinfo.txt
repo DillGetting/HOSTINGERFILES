@@ -1,0 +1,113 @@
+EXTRA SHIT
+
+nameserver for VPS on  hostinger
+31.220.105.10
+
+public key for writelook.ppk
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0C18gPrQjudCsr/h4BiD5YZ0riyDc8ffpqJwxEhg
+Vc2+D44LjYwR8XA69CK63IA+woKwz0zoX7e9X1C1k+7Uw7tXgSzokcmwa1BZPBhGgPXVTaDiYTtNe9Aj
+soXxX6zE+X+vGN2ucLve7/pZZGHxaI0SrSgSa1XmBck1QoqRotU0ja/0RUTCPYPhvQF+T/bqwWnLFvF
+zgpFy1AeYHboIBRy78JYPhVF4kj84qDHWtSbib7CvAjpx4xR9oDoW7uk0Sy2GaN5IzHIqghw1ao79DXw
+ccwxmAmjHQTIZNT1if9BnYF1e3jgaA+3bdwvovuV9fx89kX66E1qdXYLa9ygd3 rsa-key-20220108
+
+
+fingerprint
+ssh-rsa 2048 SHA256:Gw5QW8aUz2uBSw8iWMfiHU7Sn2gjF4EBypao6YqOUJc
+
+key comment
+rsa-key-20220108
+
+kilos
+
+SSH Details
+SSH IP: 31.220.57.76
+SSH Port: 22
+SSH Username: root
+IPV6: 2a02:4780:2:079c::1
+
+We recommend using dedicated offline SSH client to connect to your server.
+The most popular SSH client for windows is PuTTy.
+You may download PuTTy via this link:
+PuTTy
+
+If you are using MacOS, Linux or Windows 10, you do not need to
+download any additional software.
+You may connect to your Server via the Terminal with this command:
+ssh root@31.220.57.76
+
+
+EXTRA PGP key pair made on accident but here it is
+
+-----BEGIN CERTIFICATE-----
+MIIEFTCCAv2gAwIBAgIUE6W6+6Ap6YTaQSATDLZ4cQiiwUMwDQYJKoZIhvcNAQEL
+BQAwgagxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1TYW4gRnJhbmNpc2NvMRkwFwYDVQQKExBDbG91ZGZsYXJlLCBJbmMuMRswGQYD
+VQQLExJ3d3cuY2xvdWRmbGFyZS5jb20xNDAyBgNVBAMTK01hbmFnZWQgQ0EgYzdk
+ZjE3NTE4ZTQ3YjY2Y2Q2ZjJjMjI5N2MzODQ1ODEwHhcNMjIwMTA4MDcyODAwWhcN
+MzIwMTA2MDcyODAwWjAiMQswCQYDVQQGEwJVUzETMBEGA1UEAxMKQ2xvdWRmbGFy
+ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANipZe3BmVOIbxT9Vu74
+ClFh4GYw9EB2u6Uhhlx2nanD+dRMxqZc70DYBOvHZ+dNbs3YZNnoRac8O8oS5I0u
+oBz/1l2PwEwPk3otJejm1YGDEUwMcr+/dLgtdX4dEJHpCPnCOpY1ifEjHSBf1LdC
+VKKMFpFafRXYYlY5oNp66LReXnd46JKtNeQP0wV1FgBfqaga/e+oyccLPmumgedM
+xrL1OhukAtRXh71iFubDUGH+0n8G0z4QK79CqWgSLDj92m/as08SVwpqgW3FgqSO
+QkX2D1HBx3k9A1yLVsv3FhzE5pUTT+TgIY4d5C4Sp4zbrWdw71vZkcM2k1Oy50BL
+uxMCAwEAAaOBuzCBuDATBgNVHSUEDDAKBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBQuIVORMICaPjywuSE9LSdFG239vTAfBgNVHSMEGDAWgBRsw/K8
+PnbpxaMrWICNHjxPL67whDBTBgNVHR8ETDBKMEigRqBEhkJodHRwOi8vY3JsLmNs
+b3VkZmxhcmUuY29tL2IxNDNkM2ZlLWI1ZmUtNDQzNS04NzhkLWYwMWZiMDkzYzlj
+OC5jcmwwDQYJKoZIhvcNAQELBQADggEBAI/8egBHktIK1RGjG84u/YfEI9t7Krhq
+s6wGbwpXZObT3I/8Jh18T2OpNP0naRHwffTgCxwENBivRSMpF9UiRKDbF79ijv8W
+5ZemNck8Slbup7O63XonnlZm7rZSHIvineiyTb/SZAihZ2lvPZXrGT/KD76XBiHl
+1Dykp5zOl0T5+Lr3B7qyrW6gP2lm753SapgqIKYqn54vZxQyl4WCuhzHHN6swE1o
+dGXKdZzpRa3s7KYTEasMRNV18spU282hDaWrHATCSiUZLLNMdTMvg3u+o84a86X8
+NOh12geErpcviD8zjBJ/4W0KQKV2nPGqHpsTPO91C9sZVdbO1Iw43Ns=
+-----END CERTIFICATE-----
+
+
+
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYqWXtwZlTiG8U
+/Vbu+ApRYeBmMPRAdrulIYZcdp2pw/nUTMamXO9A2ATrx2fnTW7N2GTZ6EWnPDvK
+EuSNLqAc/9Zdj8BMD5N6LSXo5tWBgxFMDHK/v3S4LXV+HRCR6Qj5wjqWNYnxIx0g
+X9S3QlSijBaRWn0V2GJWOaDaeui0Xl53eOiSrTXkD9MFdRYAX6moGv3vqMnHCz5r
+poHnTMay9TobpALUV4e9Yhbmw1Bh/tJ/BtM+ECu/QqloEiw4/dpv2rNPElcKaoFt
+xYKkjkJF9g9Rwcd5PQNci1bL9xYcxOaVE0/k4CGOHeQuEqeM261ncO9b2ZHDNpNT
+sudAS7sTAgMBAAECggEAIyK1iO0QdF93xCuhYXeQFMqOnYPq2Flo7MqXA3+o6dMC
+PM+Gl4wSsK1XfvUDgJsqEO+6yyvDv+8gsxCFR+/7vzguB1Y8lRkhjXqs3ywwC6S5
+tV9/bGEcCJI2r5D/Eup7riU1Yw6jpBtRqeJgmKeFGiclscS+7D//EoSd9VBhVH58
+xW1iogZHT/PCMctGYqSmeU8Xl41CYWOaelOxCjJGs2N0JXPBJXxaaxMY5UzTi17b
+ymq7ZJXEO/imfJcT7RTnvWwAksVd0V7FAg/NAh6AZ6mDlzKU7jkXP9tun16vxgup
+1Q+tT1QCwTkJMStYYYdgrZyxHyaL9eFOjm8tN0N+YQKBgQD6EGdMy/CTf30pXaOx
+y1sKkItWt2FJqt5uDxnN/p9kgt6hWmwtun53M13u7P3bUXUZFgf3j4FvZJ6entZT
+eEcG3DLrvyF8J0fNBB6VpMXEkIcBHoglT8E6Nw/1HxUjn3xAlIc325zhpwV+V/cU
+W5SFxatNFV928F9eO/uOleHdFwKBgQDdzgOi653d4grCL+yOv01vQW9zaqZC9fkT
+2xmtT8mXnyCIKS5siDphMn6d5ckZJIVP+Stsm4x//2BxLOrmn4zMZBCn5JXKcSPm
+Zd/8qGf8ERyx4V9NjEoIts7z9l2VfqVvjB74KyVUx+IYUYSnmPSgbhiGVnqbod1c
+/MsCkScnZQKBgF62E8n8fDQBV3BxbOyMLwFDWeMQNaLnOrPIuGdTBx/UiWnni42O
+UxPmuq8hx8xnf8hulbnn+ogsPf+p/VdD+PLaN9ceXxpc7k7yPntDGzyl2NxNqhcn
+q/HWpQ6cJS+G2lLDbqtzXGoDDouZ2ZU2UnyQL59UdwHfbN+OLGsGzbMlAoGAA3c0
+l1cXIGBnyqD1EUXr79EV7Le94U32lljWDd8xRy01VOtPzmJShzJCyDTO75Wif51l
+EE1d5KIY36vT/8Z+bLMjj3wC2ybpaLAuz8PR3B5oVF8xHgUTIw+4LBetXqib7SJD
+WZ1S+AAniDm92OCK8fbGa1Lul3/v9YP9qAyckAECgYEA7Xq9tLpMcwMJhJad6DKE
+0eh+Gvu06szvGX2TOqhHzlNHBHrLrfkrcXFhPRKUmFbd55Y3BYcHOjoAkHNC4W5X
+0gx0lytjuSKOPNi18TjNuntgYM7c15JgiPNNX0b9b6TiOxQ6SV27iAkEw99J0QrO
+6jFFOrwZrj721DcSpYZwGeY=
+-----END PRIVATE KEY-----
+
+C:\Users\diljl\AppData\Roaming\gnupg\secret-key-5766FB22.asc
+
+SSH Details
+SSH IP: 31.220.57.76
+SSH Port: 22
+SSH Username: root
+IPV6: 2a02:4780:2:079c::1
+
+We recommend using dedicated offline SSH client to connect to your server.
+The most popular SSH client for windows is PuTTy. You may download PuTTy via
+this link:
+PuTTy
+
+If you are using MacOS, Linux or Windows 10, you do not need to download any
+ additional software. You may connect to your Server via the Terminal with
+ this command:
+ssh root@31.220.57.76
